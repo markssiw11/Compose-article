@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack compose tutorial</string>
+    <string name="title_1">Jetpack Compose is a modern toolkit for building native Android UI. Jetpack Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="title_2">In this tutorial, you\'ll build a simple UI component with declarative functions. You won\'t be editing any XML layouts or using the Layout Editor. Instead, you will call composable functions to define what elements you want, and the Compose compiler will do the rest.</string>
+</resources>
